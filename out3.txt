@@ -1,0 +1,10 @@
+There is a cycle in this directed graph!
+
+
+
+total operations detail:
+Total number of operations charged to all vertices is: 151
+Total number of operations charged to edges is: 65
+Total number of operations is: 216
+
+the total runtime of this program is 236ms

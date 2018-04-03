@@ -1,0 +1,12 @@
+
+Sorted vertices can be found below:
+76 70 61 68 48 37 35 46 42 47 55 45 38 71 39 65 33 60 31 66 27 26 74 19 18 17 10 77 9 28 78 8 6 1 67 63 52 75 30 40 49 50 11 20 64 22 56 53 62 29 79 32 54 57 41 15 80 51 43 34 58 59 36 21 72 73 24 23 69 2 3 4 13 44 5 25 7 12 14 16 
+
+
+
+total operations detail:
+Total number of operations charged to all vertices is: 876
+Total number of operations charged to edges is: 556
+Total number of operations is: 1432
+
+the total runtime of this program is 132ms

@@ -1,0 +1,51 @@
+
+Sorted vertices can be found below:
+15 9 7 5 3 8 1 10 11 6 4 13 12 14 2 
+
+Vertex 1: 5
+Vertex 2: 8
+Vertex 3: 4
+Vertex 4: 7
+Vertex 5: 4
+Vertex 6: 6
+Vertex 7: 4
+Vertex 8: 6
+Vertex 9: 4
+Vertex 10: 5
+Vertex 11: 7
+Vertex 12: 7
+Vertex 13: 6
+Vertex 14: 7
+Vertex 15: 4
+
+Edge from Vertex 1 to Vertex 4: 1
+Edge from Vertex 1 to Vertex 6: 1
+Edge from Vertex 1 to Vertex 10: 1
+Edge from Vertex 3 to Vertex 6: 1
+Edge from Vertex 3 to Vertex 8: 1
+Edge from Vertex 3 to Vertex 4: 1
+Edge from Vertex 4 to Vertex 12: 1
+Edge from Vertex 4 to Vertex 13: 1
+Edge from Vertex 4 to Vertex 14: 1
+Edge from Vertex 6 to Vertex 2: 1
+Edge from Vertex 7 to Vertex 8: 1
+Edge from Vertex 7 to Vertex 1: 1
+Edge from Vertex 9 to Vertex 14: 1
+Edge from Vertex 9 to Vertex 11: 1
+Edge from Vertex 9 to Vertex 12: 1
+Edge from Vertex 10 to Vertex 11: 1
+Edge from Vertex 11 to Vertex 12: 1
+Edge from Vertex 11 to Vertex 4: 1
+Edge from Vertex 11 to Vertex 2: 1
+Edge from Vertex 12 to Vertex 14: 1
+Edge from Vertex 12 to Vertex 2: 1
+Edge from Vertex 14 to Vertex 2: 1
+Edge from Vertex 15 to Vertex 11: 1
+Edge from Vertex 15 to Vertex 13: 1
+
+total operations detail:
+Total number of operations charged to all vertices is: 84
+Total number of operations charged to edges is: 24
+Total number of operations is: 108
+
+the total runtime of this program is 271ms
